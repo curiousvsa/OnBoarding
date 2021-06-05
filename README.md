@@ -12,7 +12,9 @@ Step 1 : Add to project root build.gradle.(Project Gradle)
 ----------
 Step 2 : Add the dependency.(Module Gradle)
 ----------
-
+	dependencies {
+	        implementation 'com.github.vsa15:OnBoarding:v1.0.0'
+	}
 
 ----------
 Step 3 : Implementation in the code
